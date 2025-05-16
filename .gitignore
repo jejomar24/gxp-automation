@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Playwright test artifacts
+test-results/
+playwright-report/
+*.trace.zip
+
+# Reports
+reports/
+*.html
+*.json
+
+# Logs
+*.log
+
+# TypeScript cache
+*.tsbuildinfo
+
+# VSCode settings (optional)
+.vscode/
+
+# Environment variables (if any)
+.env
+.env.*
+
+# MacOS system files
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# Compiled output (if you compile TS)
+dist/
+build/
